@@ -11,6 +11,6 @@ ghost-8b-beta-disl-0x5:
     temperature: 0.2
     top_p: 0.95
     do_sample: True
-    batch_size: 32
+    batch_size: 16
   pretty_name: 'Ghost 8B Beta (disl-0x5)'
   link: 'https://huggingface.co/lamhieu/ghost-8b-beta-disl-0x5'
